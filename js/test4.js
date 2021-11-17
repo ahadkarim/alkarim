@@ -13,7 +13,7 @@ let questions = [
       },
       {
         numb: 2,
-        question: "The constellation of seven bright starts is known as?",
+        question: "The constellation of seven bright stars is known as?",
         answer: "The Great Bear",
         options: [
           "The Milky Way",

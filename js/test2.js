@@ -288,7 +288,7 @@ let questions = [
   },
   {
     numb: 27,
-    question: "'Kyoto Protocol' is an Internation Treaty for?",
+    question: "'Kyoto Protocol' is an International Treaty for?",
     answer: "Enviroment Problems",
     options: [
       "Refugees",
@@ -387,7 +387,7 @@ let questions = [
   },
   {
     numb: 36,
-    question: "Immediately before the formation of 'One Unit' in West Pakistan, Bahawalpul enjoyed the status of a?",
+    question: "Immediately before the formation of 'One Unit' in West Pakistan, Bahawalpur enjoyed the status of a?",
     answer: "Province",
     options: [
       "Province",

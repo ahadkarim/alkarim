@@ -500,7 +500,7 @@ let questions = [
         question: "National income is essentially composed of?",
         answer: "All income of the people in a year",
         options: [
-          "All weath of a nation",
+          "All wealth of a nation",
           "Annual income of the central government",
           "All income of the people in a year",
           "Income derived from taxes by the cental government"

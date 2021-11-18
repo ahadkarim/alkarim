@@ -13,7 +13,6 @@ const canvas = document.querySelector("#my-canvas");
 
 
 
-
 var audio = new Audio('applause.mp3');
 
 // if startQuiz button clicked

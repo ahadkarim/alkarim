@@ -770,18 +770,338 @@ let questions = [
       "Physiology"
     ]
   },
-  // {
-  //   numb: 71,
-  //   question: "",
-  //   answer: "",
-  //   options: [
-  //     "",
-  //     "",
-  //     "",
-  //     ""
-  //   ]
-  // },
-     
+  {
+    numb: 71,
+    question:"A stock which is highly in demand bieng a low risk investment is called?",
+    answer: "Blue Chip",
+    options: [
+      "Blue Eyed",
+      "Red Share",
+      "Blue Chip",
+      "Uncle's Choice"
+    ]
+  },
+  {
+    numb: 72,
+    question: "The legendry painting 'Mona Lisa' is the creation of?",
+    answer: "Leonardo de Vinci",
+    options: [
+      "Pablo Picasso",
+      "Leonardo de Seprio",
+      "Florence Nightingale",
+      "Leonardo de Vinci"
+    ]
+  },
+  {
+    numb: 73,
+    question: "What is the effect of 'Deficit Financing' on Economy?",
+    answer: "Inflation",
+    options: [
+      "Recession",
+      "Depression",
+      "Deflation",
+      "Inflation"
+    ]
+  },
+  {
+    numb: 74,
+    question: "'Almamater' means?",
+    answer: "One's college or university",
+    options: [
+      "Sports complex",
+      "Film Studios",
+      "One's ancestral graveyard",
+      "One's college or university"
+    ]
+  },
+  {
+    numb: 75,
+    question: "The country which introduced competitive examinations for the selection of Public Servants, for the first time was?",
+    answer: "China",
+    options: [
+      "UK",
+      "USA",
+      "China",
+      "Japan"
+    ]
+  },
+  {
+    numb: 76,
+    question: "Michael Dell is one of the biggest name of?",
+    answer: "Today's Computer World",
+    options: [
+      "Luxemburg's Stock Market",
+      "Today's Computer World",
+      "Latin America's Drug Mafia",
+      "German Politics"
+    ]
+  },
+  {
+    numb: 77,
+    question: "'May Day' is celebrated to remembers the killings of labour protest of 1st May, 1886 in?",
+    answer: "Chicago",
+    options: [
+      "Moscow",
+      "Tehran",
+      "Manchester",
+      "Chicago"
+    ]
+  },
+  {
+    numb: 78,
+    question: "Julian Assange is?",
+    answer: "Founder of Wiki Leaks",
+    options: [
+      "An American Media Person",
+      "A Star of English Film Industry",
+      "Founder of Wiki Leaks",
+      "A Terrorist of Chilli"
+    ]
+  },
+  {
+    numb: 79,
+    question: "SECP is the regulatory authority of?",
+    answer: "Stock Market",
+    options: [
+      "Stock Market",
+      "NGO's",
+      "Media Bussiness",
+      "Import and Export"
+    ]
+  },
+  {
+    numb: 80,
+    question: "How many countries are the member of SAARC?",
+    answer: "8",
+    options: [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    numb: 81,
+    question: "Myanmar is the new name of?",
+    answer: "Barma",
+    options: [
+      "Barma",
+      "Nepal",
+      "Bhutan",
+      "Tibet"
+    ]
+  },
+  {
+    numb: 82,
+    question: "Which of the following protect the body against disease and infections?",
+    answer: "White Blood Cells",
+    options: [
+      "Blood Platelets",
+      "Haemoglobin",
+      "Red Blood Cells",
+      "White Blood Cells"
+    ]
+  },
+  {
+    numb: 83,
+    question: "Which substance is used in match sticks?",
+    answer: "Phosphorous",
+    options: [
+      "Sulpher",
+      "Zinc",
+      "Phosphorous",
+      "Nitric Acid"
+    ]
+  },
+  {
+    numb: 84,
+    question: "Pakistan officialy became the Islamic Republic of Pakistan according to the Constitution of?",
+    answer: "1956",
+    options: [
+      "1956",
+      "1953",
+      "1952",
+      "1973"
+    ]
+  },
+  {
+    numb: 85,
+    question: "Quid-e-Azam Muhammad Ali Jinnah started his Law practice in?",
+    answer: "Bombay",
+    options: [
+      "Karachi",
+      "London",
+      "Bombay",
+      "Delhi"
+    ]
+  },
+  {
+    numb: 86,
+    question: "The first President of Muslim League was?",
+    answer: "Agha Khan",
+    options: [
+      "Agha Khan",
+      "Sir Sayed Ahmed Khan",
+      "Allama Iqbal",
+      "Maulana Fazal-ul-Haq"
+    ]
+  },
+  {
+    numb: 87,
+    question: "Pakistan Joined the United Nations in?",
+    answer: "1947",
+    options: [
+      "1947",
+      "1940",
+      "1949",
+      "1950"
+    ]
+  },
+  {
+    numb: 88,
+    question: "Diamer Bhasha Dam is being constructed in?",
+    answer: "Gilgit",
+    options: [
+      "Balochistan",
+      "Kashmir",
+      "Gilgit",
+      "Sindh"
+    ]
+  },
+  {
+    numb: 89,
+    question: "Pakistan is located in?",
+    answer: "South Asia",
+    options: [
+      "East Asia",
+      "South East Asia",
+      "South Asia",
+      "North East Asia"
+    ]
+  },
+  {
+    numb: 90,
+    question: "to the South of Pakistan lies?",
+    answer: "The Arabian Sea",
+    options: [
+      "China",
+      "Iran",
+      "Afghanistan",
+      "The Arabian Sea"
+    ]
+  },
+  {
+    numb: 91,
+    question: "Afghanistan is located on the ____ border of Pakistan?",
+    answer: "South West",
+    options: [
+      "North West",
+      "South West",
+      "North East",
+      "South East"
+    ]
+  },
+  {
+    numb: 92,
+    question: "The famous Khyber Pass links Peshawar, with?",
+    answer: "Kabul",
+    options: [
+      "Quetta",
+      "Kandahar",
+      "Kabul",
+      "Chaman"
+    ]
+  },
+  {
+    numb: 93,
+    question: "The famous pass which connects Pakistan with China is?",
+    answer: "Khunjerab Pass",
+    options: [
+      "Khunjerab Pass",
+      "Khojak Pass",
+      "Khyber Pass",
+      "Bolan Pass"
+    ]
+  },
+  {
+    numb: 94,
+    question: "How many Nuclear Power Plants are in Pakistan?",
+    answer: "4",
+    options: [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    numb: 95,
+    question: "State Bank of Pakistan was established in?",
+    answer: "1948",
+    options: [
+      "1947",
+      "1948",
+      "1949",
+      "1950"
+    ]
+  },
+  {
+    numb: 96,
+    question: "10 Dowing Street is the residence of ?",
+    answer: "British Prime Minister",
+    options: [
+      "Queen of England",
+      "British Prime Minister",
+      "French President",
+      "American President"
+    ]
+  },
+  {
+    numb: 97,
+    question: "Rafael Nadal is Famous player of?",
+    answer: "Tennis",
+    options: [
+      "Football",
+      "Tennis",
+      "Table Tennis",
+      "Hockey"
+    ]
+  },
+  {
+    numb: 98,
+    question: "Which of the following is not a member of Economic Cooperation Organisation (ECO)?",
+    answer: "Chechnya",
+    options: [
+      "Pakistan",
+      "Afghanistan",
+      "Chechnya",
+      "Kazakhstan"
+    ]
+  },
+  {
+    numb: 99,
+    question: "Bolan Pass, a mountain pass in Balochistan passes through?",
+    answer: "Toba Kakar Range",
+    options: [
+      "Kirthar Range",
+      "Sulaiman Range",
+      "Toba Kakar Range",
+      "Chaghi Range"
+    ]
+  },
+  {
+    numb: 100,
+    question: "The only government in India headed by the All India Muslim League in 1946 was that of?",
+    answer: "Sindh",
+    options: [
+      "Sindh",
+      "Punjab",
+      "Bengal",
+      "North West Frontier Province (KPK)"
+    ]
+  },
+
+
 
 
      

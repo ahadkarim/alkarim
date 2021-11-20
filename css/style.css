@@ -89,6 +89,8 @@ body{
 .info_box .info-list .info .queans{
 
     color: #78df59;
+    font-size: 00.7rem;
+    font-weight: 600;
 }
 .info_box .buttons{
     height: 60px;

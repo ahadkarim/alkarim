@@ -113,442 +113,442 @@ let questions = [
   },
   {
     numb: 11,
-    question: "",
-    answer: "",
+    question: "Can They Go Shopping With Us ? Sorry, They Are Busy; I Wish They _ With You Now?",
+    answer: "Could go",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Are going",
+      "Can go",
+      "Could go",
+      "Would go"
     ]
   },
   {
     numb: 12,
-    question: "",
-    answer: "",
+    question: "The Housewife ___the Cakes Burning, And Ran To Switch Off The Oven.",
+    answer: "smelt",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "smells",
+      "smell",
+      "smelt",
+      "smelling"
     ]
   },
   {
     numb: 13,
-    question: "",
-    answer: "",
+    question: "COHABIT : RESIDE ::",
+    answer: "conspire : plot",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "coincide : contradict",
+      "conspire : plot",
+      "infiltrate : influence",
+      "secrete : conceal"
     ]
   },
   {
     numb: 14,
-    question: "",
-    answer: "",
+    question: "SOLILOQUY : PLAY ::",
+    answer: "aria : opera",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "overture : musical",
+      "violin : concerto",
+      "lyric : poem",
+      "aria : opera"
     ]
   },
   {
     numb: 15,
-    question: "",
-    answer: "",
+    question: "Antonym Of DOCILE Is _____________?",
+    answer: "Unyielding",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Pliant",
+      "Pliable",
+      "Unyielding",
+      "Quiet"
     ]
   },
   {
     numb: 16,
-    question: "",
-    answer: "",
+    question: "Synonym Of Viva Voce Is _________?",
+    answer: "orally",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "lively",
+      "thematically",
+      "belligerently",
+      "orally"
     ]
   },
   {
     numb: 17,
-    question: "",
-    answer: "",
+    question: "Synonym Of Acerbity?",
+    answer: "All of these",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Astringency",
+      "Tartness",
+      "Sourness",
+      "All of these"
     ]
   },
   {
     numb: 18,
-    question: "",
-    answer: "",
+    question: "HOST : PARASITE ::",
+    answer: "medium : bacterium",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "egg : bird",
+      "meadow : soil",
+      "lair : predator",
+      "medium : bacterium"
     ]
   },
   {
     numb: 19,
-    question: "",
-    answer: "",
+    question: "Synonym Of  Affinity  Is _________?",
+    answer: "Sympathy",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Aversion",
+      "Loathe",
+      "Sympathy",
+      "Antipathy"
     ]
   },
   {
     numb: 20,
-    question: "",
-    answer: "",
+    question: "Synonym Of Pecuniary Is _________?",
+    answer: "money",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "architecture",
+      "money",
+      "indolence",
+      "warfare"
     ]
   },
   {
     numb: 21,
-    question: "",
-    answer: "",
+    question: "Synonym Of Saturnine Is _________?",
+    answer: "gloomy",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "gloomy",
+      "planetary",
+      "hopeful",
+      "astronomic"
     ]
   },
   {
     numb: 22,
-    question: "",
-    answer: "",
+    question: "Synonyms Of Catastrophe Is__________?",
+    answer: "Destruction",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Implement",
+      "Built",
+      "Fresh",
+      "Destruction"
     ]
   },
   {
     numb: 23,
-    question: "",
-    answer: "",
+    question: "Antonym Of DEXTEROUS Is _____________?",
+    answer: "Inexpert",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Acute",
+      "Inexpert",
+      "Able",
+      "Active"
     ]
   },
   {
     numb: 24,
-    question: "",
-    answer: "",
+    question: "CLOTH : TEXTURE : :",
+    answer: "Wood : Grains",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Silk : Cloth",
+      "Body : Weigh",
+      "Ornaments : Gol",
+      "Wood : Grains"
     ]
   },
   {
     numb: 25,
-    question: "",
-    answer: "",
+    question: "Synonym Of Abandon Is _____________?",
+    answer: "Leave",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Abstract",
+      "Leave",
+      "Abduct",
+      "None of these"
     ]
   },
   {
     numb: 26,
-    question: "",
-    answer: "",
+    question: "Synonym Of Accessible?",
+    answer: "All of these",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Susceptible",
+      "Available",
+      "Unrestricted",
+      "All of these"
     ]
   },
   {
     numb: 27,
-    question: "",
-    answer: "",
+    question: "Synonym Of Homogenous Is _________?",
+    answer: "similar",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "motley",
+      "heterogeneous",
+      "different",
+      "similar"
     ]
   },
   {
     numb: 28,
-    question: "",
-    answer: "",
+    question: "Synonym Of Peer Is __________?",
+    answer: "fellow",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "connote",
+      "foe",
+      "recluse",
+      "fellow"
     ]
   },
   {
     numb: 29,
-    question: "",
-    answer: "",
+    question: "Antonym Of NIGGARDLY Is _____________?",
+    answer: "Generous",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Chintzy",
+      "Generous",
+      "Skimpy",
+      "Closefisted"
     ]
   },
   {
     numb: 30,
-    question: "",
-    answer: "",
+    question: "FOX : CUNNING : :",
+    answer: "Ant : Industrious",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Horse : Runner",
+      "Cat : Playful",
+      "Ant : Industrious",
+      "Vixen : Cute"
     ]
   },
   {
     numb: 31,
-    question: "",
-    answer: "",
+    question: "Synonym Of Addendum?",
+    answer: "Both a&b",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Codicil",
+      "Augmentation",
+      "Detriment",
+      "Both a&b"
     ]
   },
   {
     numb: 32,
-    question: "",
-    answer: "",
+    question: "Water Is Made Up Of Two ___ , Namely Oxygen And Hydrogen.",
+    answer: "elements",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "aspects",
+      "section",
+      "solutions",
+      "elements"
     ]
   },
   {
     numb: 33,
-    question: "",
-    answer: "",
+    question: "Antonym Of ENORMOUS Is_____________?",
+    answer: "Tiny",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Weak",
+      "Fragile",
+      "Soft",
+      "Tiny"
     ]
   },
   {
     numb: 34,
-    question: "",
-    answer: "",
+    question: "FERTILIZE : GROW ::",
+    answer: "immunize : resist",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "nourish : enrich",
+      "immunize : resist",
+      "graft : multiply",
+      "heat : burn"
     ]
   },
   {
     numb: 35,
-    question: "",
-    answer: "",
+    question: "Antonym Of FOREMOST Is _____________?",
+    answer: "Unimportant",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Hindmost",
+      "Unimportant",
+      "Mature",
+      "Disposed"
     ]
   },
   {
     numb: 36,
-    question: "",
-    answer: "",
+    question: "Everyone At The Party ___ Amazed By His Performance.",
+    answer: "was",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "are",
+      "is",
+      "were",
+      "was"
     ]
   },
   {
     numb: 37,
-    question: "",
-    answer: "",
+    question: "PERFUNCTORILY : INSPIRATION ::",
+    answer: "insolently : veneration",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "ardently : passion",
+      "insolently : veneration",
+      "surreptitiously : obsession",
+      "phlegmatically : composure"
     ]
   },
   {
     numb: 38,
-    question: "",
-    answer: "",
+    question: "RACE : FATIGUE ::",
+    answer: "Fasting : Hunger",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Round : Boxing",
+      "Fasting : Hunger",
+      "Hiking : Gangren",
+      "Flower : Color"
     ]
   },
   {
     numb: 39,
-    question: "",
-    answer: "",
+    question: "AFTER: BEFORE ::",
+    answer: "successor: predecessor",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "present: past",
+      "first: second",
+      "successor: predecessor",
+      "contemporary: historic"
     ]
   },
   {
     numb: 40,
-    question: "",
-    answer: "",
+    question: "Synonym Of Accost?",
+    answer: "Both a&b",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Confront",
+      "Solicit",
+      "Scorn",
+      "Both a&b"
     ]
   },
   {
     numb: 41,
-    question: "",
-    answer: "",
+    question: "Synonym Of BEMOAN Is ___________ ?",
+    answer: "Lament",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Lament",
+      "Denounce",
+      "Loathe",
+      "Soothe"
     ]
   },
   {
     numb: 42,
-    question: "",
-    answer: "",
+    question: "Synonym Of ZEST Is _____________?",
+    answer: "Enthusiasm",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Enthusiasm",
+      "Passive",
+      "Various",
+      "Disgust"
     ]
   },
   {
     numb: 43,
-    question: "",
-    answer: "",
+    question: "Synonym Of AFICIONADO Is____________?",
+    answer: "Enthusiast",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Critic",
+      "Enthusiast",
+      "Rival",
+      "indifferent"
     ]
   },
   {
     numb: 44,
-    question: "",
-    answer: "",
+    question: "Synonym Of Endeavor Is _________?",
+    answer: "attempt earnestly",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "intend",
+      "to ignore",
+      "bring about",
+      "attempt earnestly"
     ]
   },
   {
     numb: 45,
-    question: "",
-    answer: "",
+    question: "Synonym Of Crucifixion Is _________?",
+    answer: "execution",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "happiness",
+      "contentment",
+      "gassing",
+      "execution"
     ]
   },
   {
     numb: 46,
-    question: "",
-    answer: "",
+    question: "She Took Lessons ___ How To Swim.",
+    answer: "to learn",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "for learning",
+      "learn",
+      "to learn",
+      "learning"
     ]
   },
   {
     numb: 47,
-    question: "",
-    answer: "",
+    question: "Antonym Of MITE Is _____________?",
+    answer: "Whole",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Bug",
+      "Bit",
+      "Whole",
+      "Insect"
     ]
   },
   {
     numb: 48,
-    question: "",
-    answer: "",
+    question: "Synonym Of Cynosure Is _________?",
+    answer: "center of attention",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "center of attention",
+      "obscurity",
+      "clown",
+      "certainty"
     ]
   },
   {
     numb: 49,
-    question: "",
-    answer: "",
+    question: "Day: Night ::",
+    answer: "Kind: Cruel",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Good: Rough",
+      "Dark: Black",
+      "Shining: Brigh",
+      "Kind: Cruel"
     ]
   },
   {
     numb: 50,
-    question: "",
-    answer: "",
+    question: "I Am Looking For Admission ___ In A Government Or Private University.",
+    answer: "either",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "until",
+      "both",
+      "either",
+      "neither"
     ]
   },
   {

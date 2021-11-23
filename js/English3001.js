@@ -553,552 +553,552 @@ let questions = [
   },
   {
     numb: 51,
-    question: "",
-    answer: "",
+    question: "Synonym Of Citadel Is _________?",
+    answer: "fortress",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "conduit",
+      "mountain",
+      "fortress",
+      "palace"
     ]
   },
   {
     numb: 52,
-    question: "",
-    answer: "",
+    question: "It Was He Who Put A “Spoke In My Wheel”.",
+    answer: "thwarted in the execution of the plan",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "helped in the execution of the plan",
+      "tried to cause an accident",
+      "thwarted in the execution of the plan",
+      "destroyed the plan"
     ]
   },
   {
     numb: 53,
-    question: "",
-    answer: "",
+    question: "A Speed Limit Is The __ Legal Speed That You Can Travel On The Road.",
+    answer: "maximum",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "highest",
+      "longest",
+      "maximum",
+      "minimum"
     ]
   },
   {
     numb: 54,
-    question: "",
-    answer: "",
+    question: "Synonym Of Advert Is _________?",
+    answer: "refer",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "chance",
+      "turn against",
+      "refer",
+      "circumvent"
     ]
   },
   {
     numb: 55,
-    question: "",
-    answer: "",
+    question: "Words: Poetry ::",
+    answer: "Notes: Music",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Notes: Music",
+      "Dictionary Letters",
+      "Planet: Sun",
+      "Wheat: Food"
     ]
   },
   {
     numb: 56,
-    question: "",
-    answer: "",
+    question: "Synonym Of Iota Is _________?",
+    answer: "small amount",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "ancient coin",
+      "something owed",
+      "punctuation mark",
+      "small amount"
     ]
   },
   {
     numb: 57,
-    question: "",
-    answer: "",
+    question: "Antonym Of Peaked Is _________?",
+    answer: "ruddy",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "arrogant",
+      "tired",
+      "ruddy",
+      "pointy"
     ]
   },
   {
     numb: 58,
-    question: "",
-    answer: "",
+    question: "The Sparrows Took No __the Bread.",
+    answer: "notice of",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "notice about",
+      "notice of",
+      "notice from",
+      "notice to"
     ]
   },
   {
     numb: 59,
-    question: "",
-    answer: "",
+    question: "He Has Many Friends, But __are Good Ones.",
+    answer: "few",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "few",
+      "a few",
+      "the few",
+      "the some"
     ]
   },
   {
     numb: 60,
-    question: "",
-    answer: "",
+    question: "The Powers Of The Party Are_in Several Places In The Constitution.",
+    answer: "enumerated",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "named",
+      "numbered",
+      "enumerated",
+      "counted"
     ]
   },
   {
     numb: 61,
-    question: "",
-    answer: "",
+    question: "Synonym Of YOB Is__________?",
+    answer: "Aggressive",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Intelligent",
+      "Annoyed",
+      "Aggressive",
+      "Humble"
     ]
   },
   {
     numb: 62,
-    question: "",
-    answer: "",
+    question: "Synonym Of Mano A Mano",
+    answer: "Hand to hand",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Street to street",
+      "Hand to hand",
+      "City to city",
+      "District to district"
     ]
   },
   {
     numb: 63,
-    question: "",
-    answer: "",
+    question: "NUMISMATIST : COINS ::",
+    answer: "Philatelist : Stamps",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Jeweller : Jewels",
+      "Philatelist : Stamps",
+      "Geneticist : Chromosome",
+      "Cartographer : Maps"
     ]
   },
   {
     numb: 64,
-    question: "",
-    answer: "",
+    question: "Synonym Of Exemplify Is _____________?",
+    answer: "Illustrate",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Illustrate",
+      "Reprehensible",
+      "Finish",
+      "Empty"
     ]
   },
   {
     numb: 65,
-    question: "",
-    answer: "",
+    question: "She Is Totally Obedient _ Him.",
+    answer: "to",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "to",
+      "of",
+      "both A & B",
+      "None"
     ]
   },
   {
     numb: 66,
-    question: "",
-    answer: "",
+    question: "Synonym Of Ascribe Is _________?",
+    answer: "attribute",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "attribute",
+      "engrave",
+      "write",
+      "sign"
     ]
   },
   {
     numb: 67,
-    question: "",
-    answer: "",
+    question: "Synonym Of Retrospect Is _________?",
+    answer: "review of the past",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "microscope",
+      "special kind of telescope",
+      "review of the past",
+      "prism"
     ]
   },
   {
     numb: 68,
-    question: "",
-    answer: "",
+    question: "Antonym Of EXPAND Is _____________?",
+    answer: "Condense",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Conclude",
+      "Congest",
+      "Condense",
+      "Convert"
     ]
   },
   {
     numb: 69,
-    question: "",
-    answer: "",
+    question: "The Department Head Insisted That He __absolute Authority To Regulate Office Work.",
+    answer: "would be given",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "is given",
+      "gives",
+      "would give",
+      "would be given"
     ]
   },
   {
     numb: 70,
-    question: "",
-    answer: "",
+    question: "Synonym Of Victory Is __________?",
+    answer: "success",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "success",
+      "progress",
+      "fortune",
+      "defeat"
     ]
   },
   {
     numb: 71,
-    question: "",
-    answer: "",
+    question: "Synonym Of Lurch Is________?",
+    answer: "Stagger",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Tiptoe",
+      "Stagger",
+      "None of the above",
+      "Steady"
     ]
   },
   {
     numb: 72,
-    question: "",
-    answer: "",
+    question: "Synonym Of Penury Is _________?",
+    answer: "poverty",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "poverty",
+      "custom",
+      "affluence",
+      "numismatics"
     ]
   },
   {
     numb: 73,
-    question: "",
-    answer: "",
+    question: "She Is Scared _ Snake.",
+    answer: "of",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "with",
+      "from",
+      "of",
+      "by"
     ]
   },
   {
     numb: 74,
-    question: "",
-    answer: "",
+    question: "PORK: PIG ::",
+    answer: "mutton: sheep",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "mutton: sheep",
+      "rooster: chicken",
+      "lobster: crustacea",
+      "steer: beef"
     ]
   },
   {
     numb: 75,
-    question: "",
-    answer: "",
+    question: "Synonym Of Quorum Is _________?",
+    answer: "necessary number of members",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "all the participants",
+      "public meeting",
+      "document",
+      "necessary number of members"
     ]
   },
   {
     numb: 76,
-    question: "",
-    answer: "",
+    question: "_ Stood __ The Burning House.",
+    answer: "The girl   on",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "The girl   on",
+      "A girl          on",
+      "A girl  in",
+      "Girl             in"
     ]
   },
   {
     numb: 77,
-    question: "",
-    answer: "",
+    question: "_weight Gain Or Weight Loss Is Not Good For Your Body.",
+    answer: "Excessive",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Excessive",
+      "Explosive",
+      "Expressive",
+      "Extensive"
     ]
   },
   {
     numb: 78,
-    question: "",
-    answer: "",
+    question: "Antonym Of Dearth Is ________?",
+    answer: "abundance",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "poverty",
+      "lack",
+      "foreign",
+      "abundance"
     ]
   },
   {
     numb: 79,
-    question: "",
-    answer: "",
+    question: "Synonym Of Fastidious Is _________?",
+    answer: "squeamish",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "precise",
+      "speedy",
+      "hungry",
+      "squeamish"
     ]
   },
   {
     numb: 80,
-    question: "",
-    answer: "",
+    question: "Synonym Of Dicker Is _________?",
+    answer: "bargain",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "argue",
+      "complain",
+      "waste time",
+      "bargain"
     ]
   },
   {
     numb: 81,
-    question: "",
-    answer: "",
+    question: "Synonym Of Furlong Is _________?",
+    answer: "eighth of a mile",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "eighth of a mile",
+      "lengthy stay",
+      "loneliness",
+      "quarter of a mile"
     ]
   },
   {
     numb: 82,
-    question: "",
-    answer: "",
+    question: "INDUSTRIOUSNESS : ACTIVITY ::",
+    answer: "fastidiousness : selectivity",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "anxiousness : apathy",
+      "kindliness : animosity",
+      "purposefulness : enthusiasm",
+      "fastidiousness : selectivity"
     ]
   },
   {
     numb: 83,
-    question: "",
-    answer: "",
+    question: "Synonym Of Trail_________?",
+    answer: "To chase",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "To fix",
+      "To chase",
+      "To disturb",
+      "To divert"
     ]
   },
   {
     numb: 84,
-    question: "",
-    answer: "",
+    question: "Synonym Of Kidnap Is _____________?",
+    answer: "Abduct",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Abduct",
+      "Appaling",
+      "All the above",
+      "Renounce"
     ]
   },
   {
     numb: 85,
-    question: "",
-    answer: "",
+    question: "The Man __ You Met Is An Anchorperson.",
+    answer: "whom",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "whose",
+      "who",
+      "whom",
+      "which"
     ]
   },
   {
     numb: 86,
-    question: "",
-    answer: "",
+    question: "Synonym Of Onerous Is _________?",
+    answer: "burdensome",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "proud",
+      "possessive",
+      "burdensome",
+      "droll"
     ]
   },
   {
     numb: 87,
-    question: "",
-    answer: "",
+    question: "Antonym Of SINGULAR Is _____________?",
+    answer: "Common",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Social",
+      "Common",
+      "Ancient",
+      "Dull"
     ]
   },
   {
     numb: 88,
-    question: "",
-    answer: "",
+    question: "Synonym Of Confiscated Is________?",
+    answer: "Seize",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Return",
+      "Seize",
+      "Free",
+      "Allow"
     ]
   },
   {
     numb: 89,
-    question: "",
-    answer: "",
+    question: "Synonym Of Frenetic Is _________?",
+    answer: "frantic",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "idol",
+      "frantic",
+      "relaxed",
+      "continental"
     ]
   },
   {
     numb: 90,
-    question: "",
-    answer: "",
+    question: "Synonym Of Daft Is _________?",
+    answer: "silly",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "awkward",
+      "breezy",
+      "nimble",
+      "silly"
     ]
   },
   {
     numb: 91,
-    question: "",
-    answer: "",
+    question: "Antonym Of NEBULOUS Is _____________?",
+    answer: "Apparent",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Apparent",
+      "Misty",
+      "Shadowy",
+      "Murky"
     ]
   },
   {
     numb: 92,
-    question: "",
-    answer: "",
+    question: "Synonym Of  Pledge  Is _____________?",
+    answer: "Vow",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Vow",
+      "Outclass",
+      "Compensate",
+      "Plunder"
     ]
   },
   {
     numb: 93,
-    question: "",
-    answer: "",
+    question: "WAN: COLOUR ::",
+    answer: "insipid: flavour",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "insipid: flavour",
+      "corpulent: weight",
+      "enigmatic: puzzle",
+      "pallid: complexion"
     ]
   },
   {
     numb: 94,
-    question: "",
-    answer: "",
+    question: "Antonym Of Accelerate Is _______?",
+    answer: "delay",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "risk",
+      "delay",
+      "deny",
+      "monitor"
     ]
   },
   {
     numb: 95,
-    question: "",
-    answer: "",
+    question: "Synonym Of  Perpetual Is ________?",
+    answer: "Everlasting",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Sneak",
+      "Garrulous",
+      "Liberal",
+      "Everlasting"
     ]
   },
   {
     numb: 96,
-    question: "",
-    answer: "",
+    question: "Synonym Of BONHAMIE Is__________?",
+    answer: "friendliness",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "curriculum",
+      "friendliness",
+      "Insolent",
+      "Meticulous"
     ]
   },
   {
     numb: 97,
-    question: "",
-    answer: "",
+    question: "Synonym Of Benchmark Is _________?",
+    answer: "reference point",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "reference point",
+      "exhibition",
+      "repute",
+      "label"
     ]
   },
   {
     numb: 98,
-    question: "",
-    answer: "",
+    question: "Cobbler: Leather ::",
+    answer: "Mason: Stone",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Television: Engineer",
+      "Shirt: Boutique",
+      "Mason: Stone",
+      "Woodcutter: Furniture"
     ]
   },
   {
     numb: 99,
-    question: "",
-    answer: "",
+    question: "Synonym Of Civil Is __________?",
+    answer: "public",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "trite",
+      "unkind",
+      "questionable",
+      "public"
     ]
   },
   {
     numb: 100,
-    question: "",
-    answer: "",
+    question: "Synonym Of PREVARICATE Is _____________?",
+    answer: "Lie",
     options: [
-      "",
-      "",
-      "",
-      ""
+      "Early",
+      "Truth",
+      "Delay",
+      "Lie"
     ]
   },
 
